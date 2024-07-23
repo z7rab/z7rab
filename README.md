@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="https://guns.lol/syns"><img src="https://readme-typing-svg.herokuapp.com/?font=VT323&size=100&color=0000FF&center=true&width=1200&height=140&lines=7+R+A+B;O+N;T+O+P
-"></a>
+  <a href="https://guns.lol/syns"><img src="https://readme-typing-svg.herokuapp.com/?font=VT323&size=100&color=0000FF&center=true&width=1200&height=140&lines=7+R+A+B;O+N;T+O+P"></a>
 </p>
 
 <div align="center">
