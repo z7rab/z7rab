@@ -6,7 +6,7 @@
 
 <a href="https://discordapp.com/users/1042440993028460594" target="_blank"> <img src="https://discord.c99.nl/widget/theme-4/1042440993028460594.png"/></a>
 
-🌐・**Website: [https://nightmare.cc/](https://z7rab.github.io/Nightmare/)** 
+🌐・**Website: https://nightm4re.cc/** 
 
 🌐・**Beginner LUA developer, Have been coding in PYTHON and C# for a bit.** 
 
